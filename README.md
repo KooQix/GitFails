@@ -1,6 +1,8 @@
 # Overview
 
-Git is awesome, but have you ever hit `git push` command, and then 'Oh \*\*\*\*, I just pushed `credentials.yaml`'? Well, I have! And I'm sure you have too. This is a simple script to help you revoke credentials from your git history.
+Git is awesome, but have you ever hit `git push` command, and then 'Oh \*\*\*\*, I just pushed `credentials.yaml`'? Well, I have! And I'm sure you have too.
+
+This is a simple script to help you find and revoke sensitive information from your git history.
 
 ## How it works
 
